@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/a15mirfeilor/M06# 
 
 #comprovar que le usuario es root
 
